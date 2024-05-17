@@ -37,7 +37,7 @@ We are looking for collaborators to join the core team and help bring ForsaLink 
 To get started with the project, clone the repository and follow the setup instructions:
 
 ```bash
-git clone https://github.com/your-username/forsalink.git
+git clone https://github.com/halimbahae/forsalink.git
 cd forsalink
 ```
 
