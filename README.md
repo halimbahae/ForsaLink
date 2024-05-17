@@ -1,5 +1,5 @@
 
-![ForsaLink Logo](./logo.png)
+![ForsaLink Logo](./ForsaLink-logo.png)
 
 
 # ForsaLink - **Connecting Talent with Opportunity**
