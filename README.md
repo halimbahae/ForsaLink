@@ -1,3 +1,7 @@
+
+![ForsaLink Logo](./logo.png)
+
+
 # ForsaLink - **Connecting Talent with Opportunity**
 
 ## Introduction
@@ -67,7 +71,7 @@ For any questions or suggestions, feel free to reach out to me on [LinkedIn](htt
 
 ## Support Us
 
-You can support us by liking and sharing our [LinkedIn post]([https://www.linkedin.com/in/halimbahae/](https://www.linkedin.com/feed/update/urn:li:activity:7197015537363677184/)), helping us spread the word and reach more potential collaborators and users.
+You can support us by liking and sharing our [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7197015537363677184/), helping us spread the word and reach more potential collaborators and users.
 
 ## License
 
