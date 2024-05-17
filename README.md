@@ -76,11 +76,3 @@ This project is licensed under the MIT License.
 ---
 
 Thank you for your interest in ForsaLink. Together, we can create a platform that makes a real difference in connecting talent with opportunities.
-
----
-
-**Hashtags**: #Tech4Good #OpportunityMatcher #Internships #StudentOpportunities #WebDevelopment #Marketing #Innovation #CommunityBuilding
-
----
-
-Feel free to adjust any details as needed!
